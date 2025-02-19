@@ -10,6 +10,7 @@ namespace BE_07.App
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("xin chao");
 		}
 	}
 }
