@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE_07.App", "BE_07.App\BE_07.App.csproj", "{59E52E40-D3A6-4BA0-9265-6E073BD20BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE_07.DataAcess.NetFrameWork", "BE_07.DataAcess.NetFrameWork\BE_07.DataAcess.NetFrameWork.csproj", "{601171A2-B221-438E-9779-5310FA88936E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{09EAE04C-6BEA-4AD8-B86E-F3F4C7F77D9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{59E52E40-D3A6-4BA0-9265-6E073BD20BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E52E40-D3A6-4BA0-9265-6E073BD20BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E52E40-D3A6-4BA0-9265-6E073BD20BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601171A2-B221-438E-9779-5310FA88936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601171A2-B221-438E-9779-5310FA88936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601171A2-B221-438E-9779-5310FA88936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601171A2-B221-438E-9779-5310FA88936E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EAE04C-6BEA-4AD8-B86E-F3F4C7F77D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EAE04C-6BEA-4AD8-B86E-F3F4C7F77D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EAE04C-6BEA-4AD8-B86E-F3F4C7F77D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EAE04C-6BEA-4AD8-B86E-F3F4C7F77D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

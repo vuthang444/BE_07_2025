@@ -1,0 +1,7 @@
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\bin\Debug\BE_07.App.exe.config
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\bin\Debug\BE_07.App.exe
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\bin\Debug\BE_07.App.pdb
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\obj\Debug\BE_07.App.csproj.AssemblyReference.cache
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\obj\Debug\BE_07.App.csproj.CoreCompileInputs.cache
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\obj\Debug\BE_07.App.exe
+C:\Users\Thang\source\repos\BE_08_2025\BE_07.App\BE_07.App\obj\Debug\BE_07.App.pdb
